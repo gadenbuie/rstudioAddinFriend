@@ -14,3 +14,5 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 Imports: 
     rstudioapi
+URL: https://github.com/gadenbuie/rstudioAddinFriend
+BugReports: https://github.com/gadenbuie/rstudioAddinFriend/issues
