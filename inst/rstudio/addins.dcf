@@ -1,0 +1,25 @@
+Name: Get All RStudio Contexts
+Description: Get All RStudio Contexts
+Binding: get_all_contexts
+Interactive: false
+
+Name: Get Active Document Context
+Description: rstudioapi::getActiveDocumentContext()
+Binding: get_active_document_context
+Interactive: false
+
+Name: Get Active Project
+Description: rstudioapi::getActiveProject()
+Binding: get_active_project
+Interactive: false
+
+Name: Get Console Editor Context
+Description: rstudioapi::get_console_editor_context()
+Binding: get_console_editor_context
+Interactive: false
+
+Name: Get Source Editor Context
+Description: rstudioapi::getSourceEditorContext()
+Binding: get_source_editor_context
+Interactive: false
+
